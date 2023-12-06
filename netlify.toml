@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "https://chencho-27.netlify.app/chencho/:splat"
-  status = 301
-  force = true
