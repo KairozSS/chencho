@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://kairoz.dev/chencho/:splat"
+  status = 301
+  force = true
